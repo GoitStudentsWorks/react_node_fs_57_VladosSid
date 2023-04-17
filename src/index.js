@@ -13,7 +13,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate loading={<Loader />} persistor={persistor}>
-        <BrowserRouter basename="/project-fullstack-frontend">
+        <BrowserRouter basename="/react_node_fs_57_VladosSid">
           <App />
         </BrowserRouter>
       </PersistGate>
