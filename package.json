@@ -2,7 +2,7 @@
   "name": "project-fullstack-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://GoitStudentsWorks.github.io/react_node_fs_57_VladosSid/",
+  "homepage": "https://GoitStudentsWorks.github.io/react_node_fs_57_VladosSid",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
